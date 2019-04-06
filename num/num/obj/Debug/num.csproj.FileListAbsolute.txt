@@ -1,0 +1,7 @@
+C:\Users\svaez\Music\HW1[YOUR-NAME]\HW1-YOUR-NAME-\num\num\bin\Debug\num.exe.config
+C:\Users\svaez\Music\HW1[YOUR-NAME]\HW1-YOUR-NAME-\num\num\bin\Debug\num.exe
+C:\Users\svaez\Music\HW1[YOUR-NAME]\HW1-YOUR-NAME-\num\num\bin\Debug\num.pdb
+C:\Users\svaez\Music\HW1[YOUR-NAME]\HW1-YOUR-NAME-\num\num\obj\Debug\num.csprojAssemblyReference.cache
+C:\Users\svaez\Music\HW1[YOUR-NAME]\HW1-YOUR-NAME-\num\num\obj\Debug\num.csproj.CoreCompileInputs.cache
+C:\Users\svaez\Music\HW1[YOUR-NAME]\HW1-YOUR-NAME-\num\num\obj\Debug\num.exe
+C:\Users\svaez\Music\HW1[YOUR-NAME]\HW1-YOUR-NAME-\num\num\obj\Debug\num.pdb
